@@ -27,42 +27,42 @@ const swaggerOptions = {
           description: 'API documentation for Dzhehuti API',
       },
       tags: [ // Define your tags here
-          // {
-          //   name: 'Cost Calculation', // Tag name
-          //   description: 'Operations related to cost calculation', // Tag description
-          // },
-          {
-            name: 'User Filter', // Tag name
-            description: 'Operations related to user filter', // Tag description
-          },
-          // {
-          //     name: 'Categories', // Tag name
-          //     description: 'Operations related to categories', // Tag description
-          // },
-          // {
-          //     name: 'Parameters', // Tag name
-          //     description: 'Operations related to parameters', // Tag description
-          // },
-          {
-            name: 'Users', // Tag name
-            description: 'Operations related to users', // Tag description
-          },
-          // {
-          //   name: 'Places', // Tag name
-          //   description: 'Operations related to places', // Tag description
-          // },
-          {
-            name: 'Purchase categories', // Tag name
-            description: 'Operations related to purchase categories', // Tag description
-          },
-          {
-            name: 'Purchase frequencies', // Tag name
-            description: 'Operations related to purchase frequencies', // Tag description
-          },
-          {
-            name: 'Income', // Tag name
-            description: 'Operations related to income', // Tag description
-          }
+        {
+          name: 'User Filter', // Tag name
+          description: 'Operations related to user filter', // Tag description
+        },
+        {
+          name: 'Users', // Tag name
+          description: 'Operations related to users', // Tag description
+        },
+        {
+          name: 'Places', // Tag name
+          description: 'Operations related to places', // Tag description
+        },
+        {
+          name: 'Purchase categories', // Tag name
+          description: 'Operations related to purchase categories', // Tag description
+        },
+        {
+          name: 'Purchase frequencies', // Tag name
+          description: 'Operations related to purchase frequencies', // Tag description
+        },
+        {
+          name: 'Income', // Tag name
+          description: 'Operations related to income', // Tag description
+        },
+        {
+          name: 'Cost Calculation', // Tag name
+          description: 'Operations related to cost calculation', // Tag description
+        },
+        {
+            name: 'Categories', // Tag name
+            description: 'Operations related to categories', // Tag description
+        },
+        {
+            name: 'Parameters', // Tag name
+            description: 'Operations related to parameters', // Tag description
+        }
       ],
   },  
   apis: [
