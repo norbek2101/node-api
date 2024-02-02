@@ -1,0 +1,25 @@
+# Node.js
+node_modules
+
+# Dependency directories
+pnpm-lock.yaml
+yarn.lock
+
+# Optional: logs and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor files
+.vscode/
+.idea/
+
+# Optional: Environment variables file
+.env
+
+# Optional: Output of npm commands
+npm-debug.log
